@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.tornadodistribution" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>TornadoDistribution</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="https://rasta.devchap.com/" />
+    <allow-navigation href="*" />
+     <allow-navigation href="https://rasta.devchap.com" />
+       <access origin="https://rasta.devchap.com"/>
+    <allow-intent href="https://rasta.devchap.com" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
